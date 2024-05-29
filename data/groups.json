@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Holiday Travel Agency",
+    "image": "https://images.unsplash.com/photo-1530616858450-99ba4525057d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "rating": 4.6,
+    "reviews": "1450"
+  },
+  {
+    "id": "2",
+    "name": "Happy Tour Planners",
+    "image":"https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJ1c3xlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.6,
+    "reviews": "1450"
+  },
+  {
+    "id": "3",
+    "name": "Royal Tour & Travels",
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzfGVufDB8fDB8fHww",
+    "rating": 4.6,
+    "reviews": "1450"
+  },
+  {
+    "id": "4",
+    "name": "Shub Ratri Travels",
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzfGVufDB8fDB8fHww",
+    "rating": 4.6,
+    "reviews": "1450"
+  },
+  {
+    "id": "5",
+    "name": "Heritage Tour",
+    "image": "https://plus.unsplash.com/premium_photo-1677440603651-b8e3f2c73e00?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJ1c3xlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.6,
+    "reviews": "1450"
+  },
+]
